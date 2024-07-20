@@ -4,7 +4,7 @@
 This project demonstrates the implementation of a secure, scalable web application infrastructure on AWS using core services and best practices. It showcases a production-ready environment with emphasis on network security, high availability, and scalability.
 
 ## Architecture
-![Architecture Diagram](architecture.png)
+![Architecture Diagram](https://github.com/user-attachments/assets/ffff2ec7-78cf-44bf-ac73-f3575e41d29d)
 
 Key components:
 - Amazon Virtual Private Cloud (VPC)
