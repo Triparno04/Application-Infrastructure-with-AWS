@@ -9,9 +9,11 @@ This document outlines the security group configurations for our web application
 - **Name**: ALB-SG
 - **Inbound Rules**:
   - Allow HTTP (80) from 0.0.0.0/0
-  - Allow HTTPS (443) from 0.0.0.0/0
+  - Allow HTTPS (443) from 0.0.0.0/0![Inbound](https://github.com/user-attachments/assets/19d40aee-6ef6-4713-a11b-57b77cc2c03b)
+
 - **Outbound Rules**:
-  - Allow all traffic to 0.0.0.0/0
+  - Allow all traffic to 0.0.0.0/0![Outbound](https://github.com/user-attachments/assets/bed83306-49cf-42d0-875c-2920571db055)
+
 
 ### 2. Web Server Security Group
 - **Name**: WebApp-SG
