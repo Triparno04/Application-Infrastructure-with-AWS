@@ -51,13 +51,14 @@ For step-by-step deployment instructions, refer to the [Deployment Guide](deploy
 - Fine-grained access control using Security Groups
 
 ## Screenshots
-- [VPC Dashboard](screenshots/vpc_dashboard.png)
-- [EC2 Instances](screenshots/ec2_instances.png)
-- [Load Balancer Configuration](screenshots/load_balancer_config.png)
-- [Auto Scaling Group](screenshots/auto_scaling_group.png)
+- [VPC Dashboard](https://github.com/user-attachments/assets/01a21cd0-85bd-446f-83a9-71acc7a1d66b) 
+- [EC2 Instances](https://github.com/user-attachments/assets/527366ae-5be5-43b4-8abf-074a35cd6718)
+- [Load Balancer Configuration](https://github.com/user-attachments/assets/00465617-34b1-45c8-b177-009ae4f964b0)
+- [Auto Scaling Group](https://github.com/user-attachments/assets/370d58d5-1db4-432c-8d61-52c7d15f788b)
+
 
 ## Author
-[Your Name]
+Triparno Bose
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
