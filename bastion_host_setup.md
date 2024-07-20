@@ -9,7 +9,7 @@ This document outlines the setup and configuration of the bastion host for secur
 - **Subnet**: Public Subnet
 - **Security Group**: Bastion-SG
 
- (https://github.com/user-attachments/assets/16b8d05a-81eb-479e-880f-a4b48de81354)
+ ![Baston host Diagram](https://github.com/user-attachments/assets/16b8d05a-81eb-479e-880f-a4b48de81354)
 
 
 ## Implementation Steps
